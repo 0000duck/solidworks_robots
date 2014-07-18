@@ -1,0 +1,2 @@
+﻿"plateWidth"=0.3
+"slotLength"=0.7
